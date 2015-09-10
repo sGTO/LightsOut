@@ -114,30 +114,22 @@ namespace LightsOut
                 for (int c = 0; c < NUM_CELLS; c++)
                 {
 
-                   // Pen pen;
-                    //Graphics g = e.Graphics;
 
                     int x = c * CELL_LENGTH + GRID_OFFSET;
                     int y = r * CELL_LENGTH + GRID_OFFSET;
 
-
-                    //g.DrawRectangle(pen, x, y, CELL_LENGTH, CELL_LENGTH);
                     if (!grid[r,c])
                     {
                         winner = true ;
                     }
 
-
                     else
                     {
                         return false;
-
                     }
 
-
                 }
-            return winner;
-            
+            return winner;            
         }
 
 
