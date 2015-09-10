@@ -1,0 +1,13 @@
+C:\Users\Mr.Me\Desktop\Fall 2015\GUI\LightsOut\obj\Debug\LightsOut.csprojResolveAssemblyReference.cache
+C:\Users\Mr.Me\Desktop\Fall 2015\GUI\LightsOut\obj\Debug\LightsOut.AboutFormm.resources
+C:\Users\Mr.Me\Desktop\Fall 2015\GUI\LightsOut\obj\Debug\LightsOut.MainForm.resources
+C:\Users\Mr.Me\Desktop\Fall 2015\GUI\LightsOut\obj\Debug\LightsOut.Properties.Resources.resources
+C:\Users\Mr.Me\Desktop\Fall 2015\GUI\LightsOut\obj\Debug\LightsOut.csproj.GenerateResource.Cache
+C:\Users\Mr.Me\Desktop\Fall 2015\GUI\LightsOut\bin\Debug\LightsOut.exe.config
+C:\Users\Mr.Me\Desktop\Fall 2015\GUI\LightsOut\bin\Debug\LightsOut.exe
+C:\Users\Mr.Me\Desktop\Fall 2015\GUI\LightsOut\bin\Debug\LightsOut.pdb
+C:\Users\Mr.Me\Desktop\Fall 2015\GUI\LightsOut\obj\Debug\LightsOut.exe
+C:\Users\Mr.Me\Desktop\Fall 2015\GUI\LightsOut\obj\Debug\LightsOut.pdb
+C:\Users\Mr.Me\Desktop\Fall 2015\fall-2015\Projects\LightsOut\bin\Debug\LightsOut.exe.config
+C:\Users\Mr.Me\Desktop\Fall 2015\fall-2015\Projects\LightsOut\obj\Debug\LightsOut.exe
+C:\Users\Mr.Me\Desktop\Fall 2015\fall-2015\Projects\LightsOut\obj\Debug\LightsOut.pdb
